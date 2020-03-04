@@ -6,6 +6,7 @@ import {Fuck} from './components/Fuck'
 import Welcome from './components/Welcome'
 import Hello from './components/Hello'
 import Toot from './components/Toot'
+import Dweeb from './components/Dweeb'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <buttom>Fook</buttom>
       </Toot>
       <Toot name="Autist" symptoms="weaponized"></Toot>
+      <Dweeb name="Nerd" symptoms="destroyed"></Dweeb>
     </div>
   );
 }
